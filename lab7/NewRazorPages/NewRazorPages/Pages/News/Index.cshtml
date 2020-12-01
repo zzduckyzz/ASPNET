@@ -1,0 +1,47 @@
+﻿@page
+@model NewRazorPages.Pages.News.IndexModel
+@{
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>News Today</title>
+</head>
+<body>
+    <h1>@Model.obj.Title</h1>
+    <blockquote>@Model.obj.Discription</blockquote>
+    <img src="~/@Model.obj.ImgURL" width="100" height="100" asp-append-version="true"/>
+    <p>@Model.obj.Content</p>
+    <form method="post">
+        <label asp-for="Heading">Enter message: </label>
+        <br /><br />
+              <table>
+                  <tr>
+                      <td>Id:</td>
+                      <td><input type="number" asp-for="obj.Id" /></td>
+                      
+                  </tr>
+                  <tr>
+                      <td>Title:</td>
+                      <td><input type="text" asp-for="obj.Title" /></td>
+                      
+                  </tr>
+                  <tr>
+                      <td>ImgURL:</td>
+                      <td><input type="text" asp-for="obj.ImgURL" /></td>
+                      
+                  </tr>
+                  <tr>
+                      <td>Discription:</td>
+                      <td><input type="text" asp-for="obj.Discription" /></td>
+                      
+                  </tr>
+                  <tr>
+                      <td>Content:</td>
+                      <td><input type="text" asp-for="obj.Content" /></td>
+                      
+                  </tr>
+              </table>
+              <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

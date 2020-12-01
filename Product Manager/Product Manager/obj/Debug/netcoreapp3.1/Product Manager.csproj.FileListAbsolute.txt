@@ -1,0 +1,333 @@
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.exe
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.deps.json
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.runtimeconfig.json
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.runtimeconfig.dev.json
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.pdb
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.Views.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.Views.pdb
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csprojAssemblyReference.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.AssemblyInfoInputs.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.AssemblyInfo.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorAssemblyInfo.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorAssemblyInfo.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.TagHelpers.input.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.TagHelpers.output.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorCoreGenerate.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorTargetAssemblyInfo.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorTargetAssemblyInfo.cs
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.Views.pdb
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager.StaticWebAssets.Manifest.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager.StaticWebAssets.xml
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.pdb
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.genruntimeconfig.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csproj.CopyComplete
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csproj.CoreCompileInputs.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM3\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.exe
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.deps.json
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.runtimeconfig.json
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.pdb
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.Views.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.Views.pdb
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.TagHelpers.input.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.TagHelpers.output.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.Views.pdb
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csproj.CopyComplete
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager.StaticWebAssets.xml
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.dll
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.pdb
+C:\Users\DELL\Desktop\ASP.NET\exam\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.genruntimeconfig.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.exe
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.deps.json
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.runtimeconfig.json
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.pdb
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.Views.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Product Manager.Views.pdb
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.AssemblyInfo.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.TagHelpers.input.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.TagHelpers.output.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.Views.pdb
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.csproj.CopyComplete
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\staticwebassets\Product Manager.StaticWebAssets.xml
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.dll
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.pdb
+C:\Users\DELL\Desktop\ASPNET\Product Manager\Product Manager\obj\Debug\netcoreapp3.1\Product Manager.genruntimeconfig.cache

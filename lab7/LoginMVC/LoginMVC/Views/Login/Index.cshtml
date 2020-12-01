@@ -1,0 +1,20 @@
+﻿@model LoginMVC.Models.User
+
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Login</title>
+    </head>
+    <body>
+        <h1>Login</h1>
+        <h3>Your info: </h3>
+        
+        <p>@Model.Username <br />@Model.Password</p>
+        <hr />
+        <form asp-action="Index" method="post">
+            Username: <input type="text" asp-for="Username" /><br />
+            Username: <input type="text" asp-for="Password" /><br />
+        
+            <button type="submit">Submit</button>
+        </form>
+    </body>
+    </html>

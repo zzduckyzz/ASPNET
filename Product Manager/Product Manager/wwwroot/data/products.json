@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Id": "product-01",
+    "Name": "SƠ THẦN",
+    "Price": 190000,
+    "Image": "http://image.phimmoizz.net/film/11888/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-02",
+    "Name": "BÁC SĨ",
+    "Price": 200000,
+    "Image": "http://image.phimmoizz.net/film/11913/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-03",
+    "Name": "GIANG HỒ",
+    "Price": 150000,
+    "Image": "http://image.phimmoizz.net/film/11641/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-04",
+    "Name": "MÙA HÈ",
+    "Price": 250000,
+    "Image": "http://image.phimmoizz.net/film/11906/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-05",
+    "Name": "TENET",
+    "Price": 250000,
+    "Image": "http://image.phimmoizz.net/film/11906/poster.medium.jpg"
+
+  },
+  {
+    "Id": "product-06",
+    "Name": "TRỐN CHẠY",
+    "Price": 550000,
+    "Image": "http://image.phimmoizz.net/film/11048/poster.medium.jpg"
+
+  }
+]
